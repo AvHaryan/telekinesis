@@ -1,0 +1,3 @@
+/home/avo/Vector/CMakeFiles/Vector.dir
+/home/avo/Vector/CMakeFiles/edit_cache.dir
+/home/avo/Vector/CMakeFiles/rebuild_cache.dir
